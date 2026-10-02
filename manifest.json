@@ -1,0 +1,19 @@
+{
+  "name": "My Grocery Shopping List",
+  "short_name": "My Groceries",
+  "description": "Simple grocery shopping planner",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f7f5",
+  "theme_color": "#236b4b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
